@@ -1,0 +1,6 @@
+{
+    "domains": [
+        "khstreamer.org",
+        "ipify"
+    ]
+}
