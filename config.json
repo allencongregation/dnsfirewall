@@ -1,4 +1,8 @@
 {
     "configfile": "/etc/jwdnsmasq/0.base.conf",
-    "systemdservice": "jwdnsmasq"
+    "systemdservice": "jwdnsmasq",
+    "updatescript": "updateandrestart.py",
+    "pullscript": "pull.py",
+    "autoupdate": true,
+    "autoupdatefrequency": 86400
 }
