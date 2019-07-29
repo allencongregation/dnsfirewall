@@ -1,0 +1,15 @@
+{
+    "domains": [
+        "docs.google.com",
+        "sheets.google.com",
+        "slides.google.com",
+        "drive.google.com",
+        "script.google.com",
+        "apis.google.com",
+        "googleapis.com",
+        "googleusercontent.com",
+        "gstatic.com",
+        "gv1.com",
+        "developers.google.com"
+    ]
+}
